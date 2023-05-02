@@ -21,16 +21,3 @@ navToggle.addEventListener("click", () => {
     }
 
 })
-
-/**
- * 
- * Alert dismiss
- * 
- */
-
- const alertDismissDiv = document.querySelector("#alert-dimiss");
- const alertDismissBtn = document.querySelector("#alert-dimiss-btn");
- 
- alertDismissBtn.addEventListener("click", () => {
-     alertDismissDiv.classList.add("d-none");
- })
