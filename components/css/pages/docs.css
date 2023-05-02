@@ -37,6 +37,10 @@
   font-weight: 600;
 }
 
+iframe {
+  margin-top: 1rem;
+}
+
 @media screen and (max-width: 1200px) {
   .sidebar-secondary {
     display: none;
