@@ -1,4 +1,4 @@
-# a11y-blocks 🤝
+# A11y blocks 🤝
  Create inclusive designs, one block at a time 🤝
  
 A11y Blocks is a collection of accessible components built using JavaScript and ARIA (Accessible Rich Internet Applications) attributes. The project provides examples of how to create accessible components, with the goal of making it easier for developers to build accessible web applications.
