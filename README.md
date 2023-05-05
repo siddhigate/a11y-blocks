@@ -1,9 +1,9 @@
-# a11y-blocks
+# a11y-blocks 🤝
  Create inclusive designs, one block at a time 🤝
  
 A11y Blocks is a collection of accessible components built using JavaScript and ARIA (Accessible Rich Internet Applications) attributes. The project provides examples of how to create accessible components, with the goal of making it easier for developers to build accessible web applications.
 
-## Components
+## Components 🧱
 
 A11y Blocks currently includes the following components:
 
@@ -15,3 +15,11 @@ A11y Blocks currently includes the following components:
 - **Progress:** A component that displays the progress of a task.
 - **Combobox:** A component that combines a text input with a dropdown list of options.
 - **Autocomplete:** A component that suggests and completes the user's input based on a set of options.
+
+## Contributing 🙌
+
+A11y Blocks is an open-source project, and contributions are always welcome. If you find a bug, have an idea for a new accessible component, or want to improve the existing components, you can create a pull request on GitHub.
+
+## License 🛡
+
+A11y Blocks is released under the MIT License.
