@@ -22,4 +22,4 @@ A11y Blocks is an open-source project, and contributions are always welcome. If 
 
 ## License 🛡
 
-A11y Blocks is released under the MIT License.
+A11y Blocks is released under the [MIT License](https://github.com/siddhigate/a11y-blocks/blob/main/LICENSE).
